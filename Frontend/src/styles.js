@@ -1,0 +1,10 @@
+import './styles/addproduct.css';
+import './styles/adminlogin.css';
+import './styles/cart.css';
+import './styles/header.css';
+import './styles/login.css';
+import './styles/orderhistory.css';
+import './styles/orderSuccess.css';
+import './styles/productlist.css';
+import './styles/product_card.css';
+import './styles/profile.css';

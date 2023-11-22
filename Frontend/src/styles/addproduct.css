@@ -1,0 +1,17 @@
+/* add product page */
+
+.sell {
+    background-image: url('https://img.freepik.com/free-photo/vegetables-set-left-black-slate_1220-685.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  } 
+  
+  .text-field {
+    padding: 20px;
+    display: flex;
+    justify-content: stretch;
+  }
+  
+  
